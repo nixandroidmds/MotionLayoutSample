@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MotionScene xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <Transition
+        app:constraintSetEnd="@id/end"
+        app:constraintSetStart="@id/start">
+
+        <OnSwipe app:dragDirection="dragRight" />
+
+        <KeyFrameSet>
+
+            <KeyAttribute
+                app:framePosition="20"
+                app:target="@id/textView">
+
+                <CustomAttribute
+                    app:attributeName="textColor"
+                    app:customColorValue="#E00" />
+
+            </KeyAttribute>
+
+            <KeyAttribute
+                android:rotation="0"
+                android:rotationX="360"
+                android:scaleX="1"
+                app:framePosition="50"
+                app:target="@id/textView" />
+
+        </KeyFrameSet>
+
+    </Transition>
+
+    <ConstraintSet android:id="@+id/start">
+
+        <Constraint
+            android:id="@id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <CustomAttribute
+                app:attributeName="textColor"
+                app:customColorValue="#000" />
+
+        </Constraint>
+
+    </ConstraintSet>
+
+    <ConstraintSet android:id="@+id/end">
+
+        <Constraint
+            android:id="@id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:rotation="90"
+            android:rotationX="360"
+            android:scaleX="2"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <CustomAttribute
+                app:attributeName="textColor"
+                app:customColorValue="#efff" />
+
+        </Constraint>
+
+    </ConstraintSet>
+
+</MotionScene>
+
+
+
+

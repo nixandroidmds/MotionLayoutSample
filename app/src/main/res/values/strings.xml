@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Motion</string>
+    <string name="desc">Классическая мужская рубашка \n* Фасон SLIM \n* В одном цвете без всяких приложений \n* Воротник на пуговицax \n* Идеально подходит для строго элегантных, а также более повседневных стилизаций \n* Состав: 95% хлопок, 5% эластан \n* Цвет: бордовый\n* Воротник на пуговицax \n* Идеально подходит для строго элегантных, а также более повседневных стилизаций \n* Состав: 95% хлопок, 5% эластан \n* Цвет: бордовый\n* Воротник на пуговицax \n* Идеально подходит для строго элегантных, а также более повседневных стилизаций \n* Состав: 95% хлопок, 5% эластан \n* Цвет: бордовый\n* Воротник на пуговицax \n* Идеально подходит для строго элегантных, а также более повседневных стилизаций \n* Состав: 95% хлопок, 5% эластан \n* Цвет: бордовый\n* Воротник на пуговицax \n</string>
+    <string name="long_latin">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod enim vitae metus porttitor, ut ornare nisl egestas. Aliquam iaculis elit augue, non mattis ante egestas sed. Suspendisse in nibh at magna pretium mollis. Duis sit amet erat odio. Morbi iaculis ullamcorper convallis. Nunc dignissim aliquam augue, nec elementum massa venenatis et. Mauris ultricies pulvinar felis, a euismod purus euismod a. Nam venenatis laoreet metus, ut bibendum odio scelerisque ac. Vestibulum convallis lacus libero, vel imperdiet arcu fringilla ut.
+
+Vivamus sagittis consequat ipsum vel rutrum. In hac habitasse platea dictumst. Fusce pharetra vitae ipsum vel sodales. Pellentesque arcu urna, pharetra in tortor vel, feugiat aliquam nulla. Mauris varius, velit eget condimentum posuere, est mauris porta arcu, id sagittis magna nisi non eros. Nulla eu massa eu libero hendrerit pharetra. Donec nec tincidunt nunc. Vestibulum non justo et ante scelerisque ornare quis vel nunc. Vestibulum in ante id quam hendrerit consequat.
+
+Fusce quis orci cursus, auctor mi quis, volutpat tellus. Etiam luctus suscipit dui eget cursus. Suspendisse bibendum at velit vel malesuada. Maecenas vel ex quis ipsum molestie mattis. Aliquam dictum ultricies hendrerit. Mauris tincidunt, lorem non suscipit faucibus, erat purus tincidunt nibh, sed luctus lectus lacus a sem. Donec sit amet placerat erat. Vivamus imperdiet aliquam tortor, sed consequat quam efficitur eget. Donec vitae sem eget turpis tempus elementum. Vivamus vehicula nisl ac ex posuere facilisis. Phasellus arcu risus, dictum ultrices cursus in, egestas ut ex. Sed bibendum diam id auctor vestibulum. Mauris molestie velit id arcu mattis, sit amet mollis ex laoreet. Proin tincidunt tincidunt nisl, vel porta elit varius ac. In sed lorem eu leo tristique tincidunt et vitae eros.
+</string>
+    <string name="titl">МУЖСКАЯ РУБАШКА ЭЛЕГАНТНАЯ С ДЛИННЫМ РУКАВОМ - ГОЛУБАЯ</string>
+    <string name="first">МУЖСКАЯ РУБАШКА ЭЛЕГАНТНАЯ С ДЛИННЫМ РУКАВОМ - ГОЛУБАЯ</string>
+    <string name="second">МУЖСКАЯ РУБАШКА ЭЛЕГАНТНАЯ С ДЛИННЫМ РУКАВОМ - ГОЛУБАЯ</string>
+    <string name="third">МУЖСКАЯ РУБАШКА ЭЛЕГАНТНАЯ С ДЛИННЫМ РУКАВОМ - ГОЛУБАЯ</string>
+    <string name="test">123</string>
+    <string name="sample_text">Sample text</string>
+    <dimen name="card_margin">10dp</dimen>
+</resources>
